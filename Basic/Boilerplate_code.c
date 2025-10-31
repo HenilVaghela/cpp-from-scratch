@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include <iostream>
 
 int main() {
-// Write C code here
-printf("This is Boilerplate code");
+    // Write C++ code here
+    std::cout << "This is Boilerplate code";
 
-return 0;
-}
+    return 0;
+} 
